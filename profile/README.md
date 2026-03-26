@@ -1,4 +1,4 @@
-# Purdue Hackers 💛
+# [Purdue Hackers](https://www.purduehackers.com/) 💛
 
 We're a community of students who collaborate, learn, and build kick-ass creative-technical projects ⚡️
 
